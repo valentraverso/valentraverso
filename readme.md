@@ -1,1 +1,1 @@
-<h2 align="center">Hi 👋 I'm Valentino </br> FullStack Developer</h2>
+<h2 align="center">Hi 👋 I'm <span color='blue'>Valentino</span> </br> FullStack Developer</h2>
