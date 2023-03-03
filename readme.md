@@ -4,4 +4,4 @@
 
 <p>💓 = Backend </p>
 
-<p>🤔<b>Curious Fact:</b> After 4 years developing in PHP, i joined Assembler Insitute of Technology (Barcelona, Spain) to make this hobbie my new carrer and learn MERN Stack.</p>
+<p>🤔<b>Curious Fact:</b> After 4 years developing in PHP, i joined Assembler Insitute of Technology (Barcelona, Spain) to make this hobbie my new career and learn MERN Stack.</p>
