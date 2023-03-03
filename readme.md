@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋 I'm Valentino!</h1>
 
-<p size="20px"><b>🗺️ Master in Software Development</b></p>
+<h3 size="20px">🗺️ Master in Software Development</h3>
 
 <p>💓 = Backend </p>
 
-<p>🤔<b>Curious Fact:</b> After 4 years developing in PHP, i joined Assembler Insitute of Technology (Barcelona, Spain) to make this hobbie my new career and learn MERN Stack.</p>
+- 🏄‍♂️Hobbies: Gym 💪 - Extreme Sports 🏔️ - Cooking 🧑‍🍳
+
+- 🤔<b>Curious Fact:</b> After 4 years developing in PHP, i joined Assembler Insitute of Technology (Barcelona, Spain) to make this hobbie my new career and learn MERN Stack.
+
+- 📩<b>Reach Me:</b> valentinotraverso2003@gmail.com
