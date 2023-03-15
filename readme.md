@@ -10,4 +10,4 @@
 
 - 🤔<b>Curious Fact:</b> After 4 years developing in PHP, i joined Assembler Insitute of Technology (Barcelona, Spain) to make this hobbie my new career and learn MERN Stack.
 
-- 📩<b>Reach Me:</b> valentinotraverso2003@gmail.com
+- 📩<b>How to Reach Me:</b> valentinotraverso2003@gmail.com
