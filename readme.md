@@ -6,7 +6,7 @@
 <a href="https://dev.valentinotraverso.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.valentinotraverso.com" height="30" width="40" /></a>
 </p>
 
-<h3 size="20px">🗺️ Master in Software Development</h3>
+<h3 size="20px">🚀 Web Software Developer</h3>
 
 <p>💓 = Backend </p>
 
