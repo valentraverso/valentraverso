@@ -9,6 +9,8 @@
 <h3 size="20px">🚀 Web Software Developer</h3>
 
 <p>💓 = Backend </p>
+<br>
+<p>Favoriter quote: <i>"Beautiful day to be alive"</i></p>
 
 - 📍<b>Current Location:</b> Barcelona, Spain
 
