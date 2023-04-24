@@ -11,6 +11,7 @@
 <p>💓 = Backend </p>
 <br>
 <p>Favoriter quote: <i>"Beautiful day to be alive"</i></p>
+<br>
 
 - 📍<b>Current Location:</b> Barcelona, Spain
 
