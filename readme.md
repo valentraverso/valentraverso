@@ -17,7 +17,7 @@
 
 - 🏄‍<b>Hobbies</b>: Gym 💪 - Extreme Sports 🏔️ - Cooking 🧑‍🍳
 
-- 🤔<b>Curious Fact:</b> After 4 years developing in PHP, i joined Assembler Insitute of Technology (Barcelona, Spain) to make this hobbie my new career and learn MERN Stack.
+- 🤔<b>Stats:</b> 1 year Master Assembler Insitute of Technology (Barcelona, Spain) + 4 years developing in PHP.
 
 - 📩<b>Email me:</b> valentinotraverso2003@gmail.com
 
